@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://ablyx.xyz/sitemap.xml
